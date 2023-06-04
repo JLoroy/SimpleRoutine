@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Routine</string>
+    <string name="main_date_title">main_date_title</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_add_button">+</string>
+    <string name="stats_chart">stats_chart</string>
+</resources>

@@ -1,0 +1,18 @@
+1. How should the app handle cases where the user tries to check a step out of order? Should it display an error message or simply not allow the checkbox to be checked?
+ANSWER: Simply not allow
+2. In the Stats tab, should the bar chart display the total time taken for each step or the average time taken for each step over the last seven days?
+ANSWER: total. one day per column.
+3. Is there a specific format for the datetime string in the history table? Should it be stored as a timestamp or a formatted string?
+ANSWER: timestamp
+4. Should the app support any form of user authentication or account management, or is it intended for single-user use only?
+ANSWER: single user
+5. Are there any specific requirements for the app's appearance, such as a color scheme or logo?
+ANSWER: yellow and black. The logo show a sun rising
+6. Should the app support any form of data backup or synchronization between devices?
+ANSWER: no, only local data
+7. Are there any specific requirements for the app's performance, such as a maximum startup time or response time for user interactions?
+ANSWER: no
+8. Should the app support any form of accessibility features, such as larger text or screen reader support?
+ANSWER: no, standard phone size only
+9. Are there any specific requirements for the app's compatibility with different Android versions or devices?
+ANSWER: no
